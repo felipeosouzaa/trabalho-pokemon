@@ -3,7 +3,7 @@ O programa lê a entrada padrão com:
 1. Número de cidades.
 2. Coordenadas das cidades.
 3. Dados dos pokémons (nome, HP, ATK, DEF).
-4. 
+ 
 ---
 
 ### 📌 2. Trabalho Pokémon (`README.md`)
